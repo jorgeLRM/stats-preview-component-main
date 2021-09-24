@@ -22,7 +22,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 - [Solution](https://github.com/jorgeLRM/stats-preview-component-main.git)
-- [Live Site](https://your-live-site-url.com)
+- [Live Site](https://jorgelrm.github.io/stats-preview-component-main/)
 
 ## My process
 
